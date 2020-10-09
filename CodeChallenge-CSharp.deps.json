@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodeChallenge-CSharp/1.0.0": {
+        "dependencies": {
+          "Microsoft.UI.Xaml": "2.4.3"
+        },
+        "runtime": {
+          "CodeChallenge-CSharp.dll": {}
+        }
+      },
+      "Microsoft.UI.Xaml/2.4.3": {}
+    }
+  },
+  "libraries": {
+    "CodeChallenge-CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.UI.Xaml/2.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jGFY1bLlAQn88d5377Gis6CyeitbPzaYZpOKdPsgFztzccetElmSB9/2JUVtOFUeZcCjOpKSgFkKPFlMbgBwvg==",
+      "path": "microsoft.ui.xaml/2.4.3",
+      "hashPath": "microsoft.ui.xaml.2.4.3.nupkg.sha512"
+    }
+  }
+}

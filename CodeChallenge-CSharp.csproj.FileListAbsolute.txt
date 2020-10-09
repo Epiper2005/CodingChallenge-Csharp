@@ -1,0 +1,13 @@
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\bin\Debug\netcoreapp3.1\CodeChallenge-CSharp.exe
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\bin\Debug\netcoreapp3.1\CodeChallenge-CSharp.deps.json
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\bin\Debug\netcoreapp3.1\CodeChallenge-CSharp.runtimeconfig.json
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\bin\Debug\netcoreapp3.1\CodeChallenge-CSharp.runtimeconfig.dev.json
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\bin\Debug\netcoreapp3.1\CodeChallenge-CSharp.dll
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\bin\Debug\netcoreapp3.1\CodeChallenge-CSharp.pdb
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\obj\Debug\netcoreapp3.1\CodeChallenge-CSharp.csprojAssemblyReference.cache
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\obj\Debug\netcoreapp3.1\CodeChallenge-CSharp.AssemblyInfoInputs.cache
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\obj\Debug\netcoreapp3.1\CodeChallenge-CSharp.AssemblyInfo.cs
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\obj\Debug\netcoreapp3.1\CodeChallenge-CSharp.dll
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\obj\Debug\netcoreapp3.1\CodeChallenge-CSharp.pdb
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\obj\Debug\netcoreapp3.1\CodeChallenge-CSharp.genruntimeconfig.cache
+C:\Users\epipe_000\source\repos\CodeChallenge-CSharp\CodeChallenge-CSharp\obj\Debug\netcoreapp3.1\CodeChallenge-CSharp.csproj.CoreCompileInputs.cache
